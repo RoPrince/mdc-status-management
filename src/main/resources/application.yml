@@ -1,0 +1,5 @@
+server:
+  port: 8080
+
+
+datacenter.url: https://testurl.com
